@@ -1,0 +1,3 @@
+[submodule "themes/hugo-cereus-pro-theme"]
+	path = themes/hugo-cereus-pro-theme
+	url = https://github.com/arhen/hugo-cereus-pro-theme
